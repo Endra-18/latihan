@@ -1,4 +1,4 @@
-##CURRICULUM VITAE
+#CURRICULUM VITAE
     Nama : Eferson Saselah
     Tempat, tanggal lahir : Tahuna, 03 september 2003
     Jenis kelamin : Laki-laki
