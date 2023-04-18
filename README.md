@@ -1,11 +1,11 @@
 ##CURRICULUM VITAE
-    Nama : Silvia Regina Makarui
-    Tempat, tanggal lahir : Tahuna, 30 september 2001
-    Jenis kelamin : Perempuan
+    Nama : Eferson Saselah
+    Tempat, tanggal lahir : Tahuna, 03 september 2003
+    Jenis kelamin : Laki-laki
     Agama : Kristen
-    Alamat : Tona 1
-    Telepon : 0852-5621-5514
-    Email : silviareginamakarui@gmail.com
+    Alamat : SOATALOARA 2
+    Telepon : 0822-5917-4849
+    Email : efersonsasela55@gmail.com
 ##PENDIDIKAN
 
     2018-2021 SMK NEGERI 1 TAHUNA
